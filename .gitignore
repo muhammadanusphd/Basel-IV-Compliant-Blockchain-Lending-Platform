@@ -1,0 +1,11 @@
+node_modules/
+.env
+.cache/
+artifacts/
+cache/
+coverage/
+build/
+dist/
+*.log
+.DS_Store
+whitepaper/build/
