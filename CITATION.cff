@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Basel-IV-Compliant-Blockchain-Lending-Platform"
+message: "If you use this research / code, please cite."
+authors:
+  - family-names: "Anus"
+    given-names: "Muhammad"
+affiliations:
+  - name: "Universiti Teknologi Malaysia (UTM)"
+date-released: 2025-08-19
+version: "1.0.0"
