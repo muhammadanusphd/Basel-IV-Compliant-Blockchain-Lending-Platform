@@ -1,0 +1,25 @@
+{
+  "name": "basel-iv-blockchain-lending",
+  "version": "1.0.0",
+  "description": "Basel-IV-Compliant Blockchain Lending Platform - digital collateral management for syndicated loans",
+  "author": "Muhammad Anus",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test --network hardhat",
+    "start": "node src/server.js",
+    "deploy": "node scripts/deploy.js",
+    "demo": "node scripts/demoBorrowFlow.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "chai": "^4.3.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.9.0",
+    "hardhat": "^2.22.12",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
